@@ -5,7 +5,7 @@
 <p>I'm a highly motivated software developer with a passion for building impactful applications. I graduated with a degree in Electrical Computer Engineering,then I completed my MS in AI and Autonomous System and am now enrolled in <a href="https://www.microverse.org/" target="_blank" rel="noopener">Microverse</a>, a top-tier remote software development school that emphasizes real-world projects and pair programming.</p>
 <ul>
   <li>🎓 I have a bachelor's degree in Electrical Engineering with Specialization in Computer.</li>
-  <li>🏃 I have a master's degree in Artificial Intelligence and Autonomous System</li>
+  <li>🎓 I have a master's degree in Artificial Intelligence and Autonomous System.</li>
   <li>:100: Dream, Believe & Achieve</li>
   <li>:gear: My stack: HTML/CSS | JavaScript | React/Redux | SQL | <//li>
   <li>:green_circle: I am currently working on a project of React Module.<//li>
