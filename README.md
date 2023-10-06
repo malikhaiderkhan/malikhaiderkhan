@@ -7,8 +7,8 @@
   <li>🎓 I have a bachelor's degree in Electrical Engineering with Specialization in Computer.</li>
   <li>🎓 I have a master's degree in Artificial Intelligence and Autonomous System.</li>
   <li>:100: Dream, Believe & Achieve</li>
-  <li>:gear: My stack: HTML/CSS | JavaScript | React/Redux | SQL | <//li>
-  <li>:green_circle: I am currently learning Ruby language.<//li>
+  <li>:gear: My stack: HTML/CSS | JavaScript | React/Redux | SQL | Ruby <//li>
+  <li>:green_circle: I am currently learning Ruby on rails framework.<//li>
  </ul>
  
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malikhaiderkhan" alt="malikhaiderkhan" /></a> </p>
